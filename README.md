@@ -1,6 +1,6 @@
-# TailwindCSS SvelteKit Clipboard
+# svelte-clipboard
 
-The TailwindCSS SvelteKit Clipboard simplifies SvelteKit development with reusable components and essential features, enhancing efficiency and consistency in project creation.
+The SvelteKit Clipboard simplifies SvelteKit development with reusable components and essential features, enhancing efficiency and consistency in project creation.
 
 
 Explore the live demo preview: https://svelte-clipboard.vercel.app/
